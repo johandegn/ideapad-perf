@@ -67,7 +67,7 @@ It is possible to activate both Rapid Charge and Battery Conservation on Linux t
 
 ## Note on the system tray applets and Wayland
 
-The script has not yet been tested on Wayland (only on X11). I suspect it to work, although i i cannot make any promises.
+The script has not yet been tested on Wayland (only on X11). I suspect it to work, although i cannot make any promises.
 
 ## License
 
