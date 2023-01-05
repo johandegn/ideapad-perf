@@ -9,7 +9,7 @@ This rest of this readme has been changed to represent the changes represented i
 
 ## Motivation
 
-The script is similar to [battmngr](https://github.com/0xless/battmngr), but the original script by korikori has been tested and confirmed to work on the following AMD models:
+This script is similar to [battmngr](https://github.com/0xless/battmngr). In addition, the original [ideapad-perf](https://github.com/korikori/ideapad-perf) script has been tested and confirmed to work on the following AMD models:
 * IdeaPad 5 14ARE05 model 81YM. More information is available at the [ArchWiki](https://wiki.archlinux.org/title/Lenovo_IdeaPad_5_14are05#Power_management).
 * IdeaPad 5 Pro 14ACN6 model 82L7. More information is available at the [ArchWiki](https://wiki.archlinux.org/title/Lenovo_IdeaPad_5_Pro_14ACN6#Power_management_options).
 
